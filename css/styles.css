@@ -29,7 +29,7 @@ body {
     font-family: var(--body-font);
     color: var(--off-white);
     background-color: var(--dark);
-    background-image: url('../images/via_lactea.jpeg');
+    background-image: url('/static/images/via_lactea.jpeg');
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
